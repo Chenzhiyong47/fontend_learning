@@ -1,5 +1,5 @@
 第一个HTML作业：
-说明：这是2017年11月1日，学了两个星期HTML5后的第一个小作业，来源——“http://ife.baidu.com/course/detail/id/90”，是一个零基础HTML编码作业
+说明：这是2017年11月1日，学了两个星期HTML5后的第一个小作业，来源——"http://ife.baidu.com/course/detail/id/90", 是一个零基础HTML编码作业
   任务目的：
     了解HTML的定义、概念、发展简史
     掌握常用HTML标签的含义、用法
@@ -7,7 +7,7 @@
     理解语义化，合理地使用HTML标签来构建页面
     
   任务描述：
-    参考“示例图20171101”（来源——“http://7xrp04.com1.z0.glb.clouddn.com/task_1_1_1.jpg”），
+    参考“示例图20171101”（来源——“http://7xrp04.com1.z0.glb.clouddn.com/task_1_1_1.jpg” ），
     完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）
     
   任务注意事项：
